@@ -1,0 +1,17 @@
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+/* more headers goes there */
+/**
+* main - dispalys if greater or less 
+* Return: 0 if it runs ok 
+*/
+/* betty style doc for function main goes there */
+int main(void)
+{
+int n;
+rand(time(0));
+n = rand() - RAND_MAX / 2;
+/* your
+	return (0);
+}
