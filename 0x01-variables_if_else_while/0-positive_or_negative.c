@@ -3,7 +3,11 @@
 #include <stdio.h>
 
 /* more headers goes there */
-/* main -displays sign of numbers */
+/**
+ * main -displays sign of numbers
+ * Return : zero if nothing 
+*/
+
 /* betty style doc for function main goes there */
 /* Main - displays sign of numbers */
 int main(void)
