@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main - displays sentence programming is like buildigns a multilingual puzzle
- * return:o if it runs good 
+ * return:0 if it runs good 
 */
 int main(void)
 {
