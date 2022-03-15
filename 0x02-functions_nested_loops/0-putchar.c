@@ -2,7 +2,7 @@
 
 /**
  * main - prints _putchar, in lowercase, followed by a new line
- * Return : o it runs good 
+ * Return :o it runs good
  */
 
 int main(void)
