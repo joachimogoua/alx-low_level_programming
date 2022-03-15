@@ -2,7 +2,8 @@
 
 /**
  * main - prints _putchar, in lowercase, followed by a new line
- * Return :o it runs good
+ * Return: Always 0 (Success)
+ * return: Always 0 (Success)
  */
 
 int main(void)
