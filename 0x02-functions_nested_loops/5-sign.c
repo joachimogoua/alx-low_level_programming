@@ -7,6 +7,7 @@
  * 0 and prints 0 if n is zero
  * -1 and prints - if n is less than zero
  */
+int print _putchar(char c);
 int print_sign(int n)
 {
 	if (n > 0)
