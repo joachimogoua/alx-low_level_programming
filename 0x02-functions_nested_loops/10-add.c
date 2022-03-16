@@ -6,6 +6,6 @@
 
 int add(int ,int)
 {
-  int a , b ;
-  return (a+b);
+  int a ,b;
+  return(a+b);
 }
