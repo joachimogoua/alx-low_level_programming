@@ -1,7 +1,10 @@
 #include<stdio.h>
 #include<stlib.h>
 #include "main.h"
-
+/**
+ * print_to_98 - print decompt
+ *
+ */
 
 
 
@@ -21,4 +24,5 @@ void print_to_98(int n);
 	   printf("i, ");
 	}
     }
+  return ( );
 }
