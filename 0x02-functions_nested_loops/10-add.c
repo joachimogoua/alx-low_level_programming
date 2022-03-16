@@ -4,8 +4,8 @@
  * Return : always 0 it runs good
  */
 
-int add(int ,int)
+int add(int, int)
 {
-  int a ,b;
+  int a, b;
   return(a+b);
 }
