@@ -4,8 +4,9 @@
 
 /* more headers goes there */
 /**
- * main -displays sign of numbers
+ * positive_or_negative -displays sign of numbers
  * Return: 0 zero if nothing
+ * @i: integer whom we want to know the sign
 */
 /* betty style doc for function main goes there */
 /* Main - displays sign of numbers */
