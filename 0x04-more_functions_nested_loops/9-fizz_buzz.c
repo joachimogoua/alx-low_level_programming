@@ -1,5 +1,5 @@
-#include "main.h"
-#include<stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 /**
  * main - print buzz fizz or a number
@@ -7,7 +7,6 @@
  */
 
 int main(void)
-
 {
 int i;
 for (i = 1 ; i <= 100 ; i++)
@@ -27,6 +26,7 @@ printf("Buzz ");
 else
 {
 printf("%d ", i);
+}
 }
 return (0);
 }
