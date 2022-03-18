@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include "main.h"
 /**
  * main - print buzz fizz or a number
  * Return: 0always 0 it runs good
@@ -28,5 +28,6 @@ else
 printf("%d ", i);
 }
 }
+printf("\n");
 return (0);
 }
