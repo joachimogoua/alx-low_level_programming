@@ -1,4 +1,4 @@
-*77;30502;0c#ifndef MAIN_H
+#ifndef MAIN_H
 #define MAIN_H
 
 #include <stdio.h>
