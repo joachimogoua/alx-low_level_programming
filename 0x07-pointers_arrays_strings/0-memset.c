@@ -2,10 +2,10 @@
 /**
  * _memset -function fills the first n bytes of the memory
  * @s:strings
- * @b: constant string
- * Return : returns a pointer to the memory area
+ * @b:constant string
+ * @n: n times
+ * Return: returns a pointer to the memory area
  */
-
 
 char *_memset(char *s, char b, unsigned int n)
 {
@@ -14,5 +14,5 @@ for (i = 0 ; i < n ; i++)
 {
 s[i] = b[i];
 }
- return(s);
+return (s);
 }
