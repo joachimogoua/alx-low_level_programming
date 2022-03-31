@@ -13,6 +13,10 @@ if (y < 0)
 {
 return (-1);
 }
+if else (y == 0)
+{
+return (1);
+}
 else
 {
   return (x * _pow_recursion(x, y-1));
