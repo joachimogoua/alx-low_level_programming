@@ -16,12 +16,12 @@ new->n = n;
 new->next = NULL;
 if (*head == NULL)
 return (new);
+listint_t *tmpo;
 listint_t *tmpo = *head;
 while(tmpo->next != NULL)
 {
 tmpo = tmpo->next;
 }
 tmpo->next = new;
-*head = new;
 return(new);
 }
